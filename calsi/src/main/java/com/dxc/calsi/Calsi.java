@@ -1,6 +1,6 @@
 package com.dxc.calsi;
 
-public class CalsiTest {
+public class Calsi {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
